@@ -26,4 +26,5 @@ A [printable version of the schematic](schematic.pdf) is available in PDF format
 
 ## Ordering the PCB
 
-The PCB can easily be ordered from PCBWay. They're cheap, great quality, and arrive quickly.
+The PCB can easily be [ordered from PCBWay](https://www.pcbway.com/project/shareproject/LED_Controller_Board___Wemos_D1_Mini.html). They're cheap, great quality, and arrive quickly. The default settings PCBWay applies to the board are perfect. All you have to
+do is pick your favourite solder mask colour!
