@@ -5,6 +5,12 @@ of a Wemos D1 Mini. With +5V and Ground output pins as well it makes a handy
 little board for controlling short runs of LED light strips that don't require a
 big external power supply.
 
+## Schematic
+
+![Schematic diagram of the board](schematic.png)
+
+A [printable version of the schematic](schematic.pdf) is available in PDF format.
+
 ## Bill of Materials
 
 | Symbol | Description                                  | Quantity | Source                                                                                                         | Notes                                                                                                            |
